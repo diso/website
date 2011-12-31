@@ -17,7 +17,7 @@ Since last week, when I released the first version of [XRDS-Simple for Movable
 Type][], there's been some more movement in the implementation space:
 
  - [James Walker][] [announced][] a plugin for [Drupal][] that works similarly
-   to Stephen’s WordPress plugin and my own MT plugin - it provides a framework
+   to Stephen's WordPress plugin and my own MT plugin - it provides a framework
    for apps to register services to be advertised in the XRDS doc. We now have
 
  - [Byrne Reese][] kindly helped me [re-package the MT plugin][] for better
