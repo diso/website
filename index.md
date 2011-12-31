@@ -22,8 +22,8 @@ from there.
 
 We're building Wordpress plugins that implement or build on:
 
- - [microformats][] like [XFN][], [hCard][], [XOXO][] — wp-contactlist, wp-profiles
- - [OpenID][] — wp-contactlist, wp-openid-server
+ - [microformats][] like [XFN][], [hCard][], [XOXO][] - wp-contactlist, wp-profiles
+ - [OpenID][] - wp-contactlist, wp-openid-server
  - [OAuth][]
  - ...and others
 
