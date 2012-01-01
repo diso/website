@@ -36,3 +36,9 @@ We're building Wordpress plugins that implement or build on:
 [OpenID]: http://openid.net/
 [OAuth]: http://oauth.net/
 
+### Posts ###
+<ul>
+{% for post in site.posts %}
+  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

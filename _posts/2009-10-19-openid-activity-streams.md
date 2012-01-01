@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenID & Activity Streams
+title: OpenID &amp; Activity Streams
 author: Steve Ivy
 ---
 
