@@ -36,9 +36,25 @@ We're building Wordpress plugins that implement or build on:
 [OpenID]: http://openid.net/
 [OAuth]: http://oauth.net/
 
-### Posts ###
+### Blogroll ###
+
+ - [Chris Messina](http://factoryjoe.com/blog)
+ - [Stephen Paul Weber](http://singpolyma.net/)
+ - [Steve Ivy](http://www.monkinetic.com/)
+ - [Will Norris](http://willnorris.com/)
+
+### Diso - Distributed ###
+
+ - [Diso Code](http://code.google.com/p/diso/)
+ - [Diso on Github](http://github.com/diso/)
+ - [Diso on Flickr](http://flickr.com/groups/diso/)
+ - [Diso on Twitter](http://twitter.com/diso)
+ - [Diso Wiki](http://wiki.diso-project.org/)
+
+### Archives ###
 <ul>
 {% for post in site.posts %}
   <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+
