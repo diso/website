@@ -27,7 +27,7 @@ We're building Wordpress plugins that implement or build on:
  - [OAuth][]
  - ...and others
 
-[redmonk]: http://redmonk.net/archives/2007/12/05/diso/
+[redmonk]: http://web.archive.org/web/20080714114420/http://redmonk.net/archives/2007/12/05/diso/
 [WordPress]: http://wordpress.org/
 [microformats]: http://microformats.org/
 [XFN]: http://microformats.org/wiki/XFN
