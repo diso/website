@@ -10,4 +10,4 @@ has come from, where it is now, and where it's going:
 > I'm still hopeful about the future of our project... and that's what I want to
 > talk about now.
 
-[thought piece]: http://www.monkinetic.com/2010/02/the-future-of-diso.html
+[thought piece]: https://www.monkinetic.blog/the-future-of-diso.html
